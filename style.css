@@ -207,6 +207,7 @@ buttonx {
     color: white;
     text-align: center;
     position: fixed;
+Padding: 5px;
     left: 250px;
     right: 250px;
 }
